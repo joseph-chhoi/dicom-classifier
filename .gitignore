@@ -1,0 +1,13 @@
+# Model file
+*.gguf
+
+# Generated output
+output/
+results.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
